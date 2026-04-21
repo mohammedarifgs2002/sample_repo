@@ -1,2 +1,6 @@
 this is a file to depict the branches in GIT. 
+<<<<<<< HEAD
 I have commited the change to depict the remote github repository
+=======
+made changes in both the branches.
+>>>>>>> custombranch
