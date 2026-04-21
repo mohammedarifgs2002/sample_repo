@@ -1,1 +1,2 @@
 this is a file to depict the branches in GIT. 
+made changes in both the branches
