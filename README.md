@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/arifmohammed0056/Nikesales/_apis/build/status%2Fmohammedarifgs2002.sample_repo?branchName=main)](https://dev.azure.com/arifmohammed0056/Nikesales/_build/latest?definitionId=3&branchName=main)
